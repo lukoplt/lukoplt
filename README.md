@@ -18,13 +18,11 @@ I turn recurring delivery problems into practical tools, examples, and guidance 
 ### Power Platform
 
 - 🖼️ **[easel](https://github.com/lukoplt/easel)** — static analysis, dependency analysis, metrics, secrets scanning, semantic diff, and rename for Power Apps canvas source. Built for local development and CI.  
-  [Docs](https://lukoplt.github.io/easel/) · [Releases](https://github.com/lukoplt/easel/releases) · [NuGet](https://www.nuget.org/packages/EaselCli)
 - 🧑‍💻 **[SmartDesk AI](https://github.com/lukoplt/SmartDesk-AI)** — a connected multi-agent enterprise IT helpdesk built with Microsoft Copilot Studio, Microsoft 365 Copilot Chat, and Dataverse MCP.
 
 ### AI
 
 - 📚 **[AI Notebook](https://github.com/lukoplt/AI-notebook)** — a free, open-source, local-first research notebook for macOS and Windows. Chat with your own documents and get cited answers while keeping data on your machine.  
-  [Explore](https://lukoplt.github.io/AI-notebook/) · [Download](https://github.com/lukoplt/AI-notebook/releases/latest)
 
 ## What I'm Doing
 
