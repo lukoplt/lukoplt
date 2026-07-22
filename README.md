@@ -13,19 +13,23 @@ Based in Prague, Czech Republic.
 - **Copilot Studio, AI agents, and Dataverse**
 - **Practical and privacy-first AI**
 
-## Featured projects
+## Projects
 
-### [easel](https://github.com/lukoplt/easel)
+### Power Platform
+
+#### [easel](https://github.com/lukoplt/easel)
 
 Static analysis, dependency analysis, metrics, secrets scanning, semantic diff, and rename for Power Apps canvas source. A deterministic, CI-first CLI for treating Canvas Apps as source code.
 
 [Documentation](https://lukoplt.github.io/easel/) · [Releases](https://github.com/lukoplt/easel/releases) · [NuGet](https://www.nuget.org/packages/EaselCli)
 
-### [SmartDesk AI](https://github.com/lukoplt/SmartDesk-AI)
+#### [SmartDesk AI](https://github.com/lukoplt/SmartDesk-AI)
 
 A connected multi-agent enterprise IT helpdesk built with Microsoft Copilot Studio, Microsoft 365 Copilot Chat, and Dataverse MCP.
 
-### [AI Notebook](https://github.com/lukoplt/AI-notebook)
+### AI
+
+#### [AI Notebook](https://github.com/lukoplt/AI-notebook)
 
 A free, open-source, local-first research notebook for macOS and Windows. Chat with PDFs, Office documents, and web pages with cited answers while keeping data on your machine.
 
